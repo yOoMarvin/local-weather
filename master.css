@@ -1,8 +1,17 @@
 body{
-  background: #003C3E;
-  color: #FFC76C;
+  background: #2C3E50;
+  color: #ECF0F1;
 }
 
 h1{
   font-family: 'Lobster', cursive;
+}
+
+p{
+  font-family: 'Lobster', cursive;
+  font-size: 24px;
+}
+
+#weater{
+  margin-top: 100px;
 }
