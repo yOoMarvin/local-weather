@@ -12,6 +12,23 @@ p{
   font-size: 24px;
 }
 
+footer{
+  font-size: 18px;
+  color: #ECF0F1;
+  margin-left: 20px;
+  bottom: 0;
+  width: 100%
+  position: fixed;
+}
+
+a{
+  color:#ECF0F1;
+}
+
+a:hover{
+  color: #E74C3C;
+}
+
 #weater{
   margin-top: 100px;
 }
